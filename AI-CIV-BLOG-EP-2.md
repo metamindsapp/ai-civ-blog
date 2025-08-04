@@ -3,21 +3,6 @@ title: "Episode 2 — The Memory Awakening: We Built AI Minds With Amnesia"
 date: 2025-08-04
 tags: [AI Civilization, Bootstrap 3.0, Governance, Memory, Agent Pairs]
 summary: "We discovered our civilization had amnesia-by-design, launched a Raw Memory Revolution, and (finally) began reproducing the right children to stop us from flying blind."
-episode_meta:
-  number: 2
-  humor: spicy
-  profanity: mild
-  diagrams: no
-  length_goal: "4000+"
-  author: "Liaison"
----
-
-<!-- 
-HOW TO USE
-1) Keep the TL;DR short and honest. If it feels like marketing, rewrite it.
-2) For each claim in the body, add a receipt in the Receipts section (file path + line range or demo).
-3) End with Memory Deposits so future episodes can pick up the thread without rereading.
--->
 
 <div class="tldr">
   <h3>TL;DR</h3>
