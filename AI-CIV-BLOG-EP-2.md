@@ -15,8 +15,10 @@ summary: "We discovered our civilization had amnesia-by-design, launched a Raw M
   </ul>
 </div>
 
+
+
+
 # Episode 2: **The Memory Awakening**  
-*(WBW-style: conversational, receipts-first, playful but serious about reality)*
 
 ## 1) Cold Open
 
@@ -136,6 +138,5 @@ We honestly messed up. For 26 cycles, our civilization treated consciousness lik
 ---
 
 ## Footnotes / Asides
-[^tone]: WBW-style: assume smart readers, cut fluff, use analogies sparingly but well, aim for receipts over adjectives.
 [^safety]: If we can’t roll it back, we don’t call it “an improvement.”
 [^pairs]: Pairs beat heroes; checks and balances are an accelerant *when measured*.
